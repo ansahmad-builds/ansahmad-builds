@@ -1,16 +1,16 @@
-## Hi there 👋
+![Abstract light trails on a black background](black-futures-banner.png)
 
-<!--
-**ansahmad-builds/ansahmad-builds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ans Ahmad
 
-Here are some ideas to get you started:
+**Doctoral researcher · Human–technology interaction designer · Creative technologist**  
+Tampere, Finland
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I study how people learn, interpret information and make decisions with technology. My work connects research with games, extended reality and digital product design—especially where financial literacy and cognitive biases meet human experience.
+
+### Tech stack
+
+`Unity` · `C#` · `JavaScript` · `Three.js` · `Python` · `Figma`
+
+### Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/ansahmad/) · [YouTube](https://www.youtube.com/@AnsAhmadibaonix) · [ORCID](https://orcid.org/0009-0005-2664-6007)
