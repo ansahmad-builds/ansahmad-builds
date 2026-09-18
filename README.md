@@ -13,4 +13,4 @@ I study how people learn, interpret information and make decisions with technolo
 
 [LinkedIn](https://www.linkedin.com/in/ansahmad/) · [YouTube](https://www.youtube.com/@AnsAhmadibaonix) · [ORCID](https://orcid.org/0009-0005-2664-6007)
 
-![A minimal animated save-point footer](profile-footer.gif)
+![A minimal still footer that says thanks for visiting](profile-footer.svg)

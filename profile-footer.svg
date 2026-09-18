@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 110" role="img" aria-labelledby="title description">
+<title id="title">Thanks for visiting</title>
+<desc id="description">A still, minimal dark footer with three small diamonds.</desc>
+<defs><pattern id="dots" width="40" height="40" patternUnits="userSpaceOnUse"><circle cx="8" cy="10" r="0.7" fill="#16202b"/></pattern></defs>
+<rect width="1280" height="110" fill="#080c14"/>
+<rect width="1280" height="110" fill="url(#dots)"/>
+<path d="M110 23h1060" fill="none" stroke="#2c4351" stroke-width="2"/>
+<text x="640" y="77" text-anchor="middle" fill="#eff6fa" font-family="Bahnschrift,Segoe UI,sans-serif" font-size="27">THANKS FOR VISITING</text>
+<path d="M1058 63l4 4-4 4-4-4z" fill="none" stroke="#748a9a"/>
+<path d="M1086 63l4 4-4 4-4-4z" fill="none" stroke="#748a9a"/>
+<path d="M1114 63l4 4-4 4-4-4z" fill="none" stroke="#748a9a"/>
+</svg>

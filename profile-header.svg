@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 310" role="img" aria-labelledby="title description">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 290" role="img" aria-labelledby="title description">
 <title id="title">Ans Ahmad with voxel cubes</title>
 <desc id="description">Minimal dark profile banner with three pixel-tiled cubes.</desc>
 <defs><pattern id="dots" width="40" height="40" patternUnits="userSpaceOnUse"><circle cx="8" cy="10" r="0.7" fill="#16202b"/></pattern></defs>
-<rect width="1280" height="310" fill="#080c14"/>
-<rect width="1280" height="310" fill="url(#dots)"/>
+<rect width="1280" height="290" fill="#080c14"/>
+<rect width="1280" height="290" fill="url(#dots)"/>
 <path d="M66 56v26h25 M1214 56v26h-25" fill="none" stroke="#304959" stroke-width="2"/>
 <text x="110" y="68" fill="#66e0f2" font-family="Cascadia Mono,monospace" font-size="16">01  /  PROFILE</text>
 <text x="105" y="194" fill="#eff6fa" font-family="Bahnschrift,Segoe UI,sans-serif" font-size="92" font-weight="300">ANS AHMAD</text>
@@ -160,7 +160,5 @@
 <polygon points="1144.4,227.0 1153.3,225.5 1153.3,234.3 1144.4,235.8" fill="#20526b" stroke="#13455e" stroke-width="1"/>
 <polygon points="1153.3,225.5 1162.2,224.0 1162.2,232.8 1153.3,234.3" fill="#285a73" stroke="#13455e" stroke-width="1"/>
 <polygon points="1126.6,203.7 1162.2,197.7 1162.2,232.8 1126.6,238.8" fill="none" stroke="#529bb3" stroke-width="2"/>
-<path d="M110 270h1060 M110 270h148" fill="none" stroke="#2c4351" stroke-width="2"/>
-<rect x="282" y="267" width="7" height="7" fill="#66e0f2"/>
-<text x="110" y="294" fill="#516d7a" font-family="Cascadia Mono,monospace" font-size="16">INTERFACE // 001</text>
+<path d="M110 265h1060" fill="none" stroke="#2c4351" stroke-width="2"/>
 </svg>
