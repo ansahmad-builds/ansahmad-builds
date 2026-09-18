@@ -1,6 +1,6 @@
-![Ans Ahmad — a quiet animated game HUD on a dark background](profile-header.gif)
+![Ans Ahmad with gently rotating voxel cubes on a dark background](profile-header.gif)
 
-**Doctoral researcher · Human–technology interaction designer · Creative technologist**  
+**Doctoral researcher · Human–technology interaction (games and gamification)**<br>
 Tampere, Finland
 
 I study how people learn, interpret information and make decisions with technology. My work connects research with games, extended reality and digital product design—especially where financial literacy and cognitive biases meet human experience.
