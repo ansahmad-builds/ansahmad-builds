@@ -1,4 +1,4 @@
-![Ans Ahmad with gently rotating voxel cubes on a dark background](profile-header.gif)
+![Greetings in seven languages with gently rotating voxel cubes on a dark background](profile-header.gif)
 
 **Doctoral researcher · Human–technology interaction (games and gamification)**<br>
 Tampere, Finland

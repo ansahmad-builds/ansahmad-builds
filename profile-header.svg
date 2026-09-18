@@ -1,12 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 290" role="img" aria-labelledby="title description">
-<title id="title">Ans Ahmad with voxel cubes</title>
-<desc id="description">Minimal dark profile banner with three pixel-tiled cubes.</desc>
+<title id="title">Greetings in seven languages with voxel cubes</title>
+<desc id="description">Hi, Terve, Bonjour, مرحبا, آداب, Hola and Ciao beside three pixel-tiled cubes.</desc>
 <defs><pattern id="dots" width="40" height="40" patternUnits="userSpaceOnUse"><circle cx="8" cy="10" r="0.7" fill="#16202b"/></pattern></defs>
 <rect width="1280" height="290" fill="#080c14"/>
 <rect width="1280" height="290" fill="url(#dots)"/>
 <path d="M66 56v26h25 M1214 56v26h-25" fill="none" stroke="#304959" stroke-width="2"/>
-<text x="110" y="68" fill="#66e0f2" font-family="Cascadia Mono,monospace" font-size="16">01  /  PROFILE</text>
-<text x="105" y="194" fill="#eff6fa" font-family="Bahnschrift,Segoe UI,sans-serif" font-size="92" font-weight="300">ANS AHMAD</text>
+<text x="105" y="153" fill="#eff6fa" font-family="Bahnschrift,Segoe UI,sans-serif" font-size="70" font-weight="300">Hi  /  Terve  /  Bonjour</text>
+<text x="200" y="230" fill="#66e0f2" font-family="Adobe Arabic,Arial,sans-serif" font-size="64" direction="rtl" unicode-bidi="bidi-override">مرحبا</text>
+<text x="244" y="210" fill="#304959" font-family="Cascadia Mono,monospace" font-size="20">/</text>
+<text x="376" y="230" fill="#8f80db" font-family="Adobe Arabic,Arial,sans-serif" font-size="64" direction="rtl" unicode-bidi="bidi-override">آداب</text>
+<text x="421" y="210" fill="#304959" font-family="Cascadia Mono,monospace" font-size="20">/</text>
+<text x="469" y="220" fill="#e6aa72" font-family="Bahnschrift,Segoe UI,sans-serif" font-size="36">Hola</text>
+<text x="570" y="210" fill="#304959" font-family="Cascadia Mono,monospace" font-size="20">/</text>
+<text x="618" y="220" fill="#85cdba" font-family="Bahnschrift,Segoe UI,sans-serif" font-size="36">Ciao</text>
 <polygon points="821.6,107.4 841.2,99.4 860.8,107.4 841.2,115.4" fill="#3e88a8" stroke="#1f6989" stroke-width="1"/>
 <polygon points="841.2,99.4 860.8,91.4 880.4,99.4 860.8,107.4" fill="#287292" stroke="#1f6989" stroke-width="1"/>
 <polygon points="860.8,91.4 880.4,83.4 900.0,91.4 880.4,99.4" fill="#2a7494" stroke="#1f6989" stroke-width="1"/>
