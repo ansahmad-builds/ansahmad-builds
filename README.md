@@ -34,8 +34,6 @@ I study how people learn, interpret information and make decisions with technolo
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
 
 **AI**<br>
-![LLM workflows](https://img.shields.io/badge/LLM_workflows-8558CC?style=flat-square)
-![Prompt design](https://img.shields.io/badge/Prompt_design-A45CC8?style=flat-square)
 ![AI-assisted prototyping](https://img.shields.io/badge/AI--assisted_prototyping-C05BA8?style=flat-square)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square)
 ![Codex](https://img.shields.io/badge/Codex-398C88?style=flat-square)
