@@ -58,5 +58,3 @@ I study how people learn, interpret information and make decisions with technolo
 [![YouTube](https://img.shields.io/badge/YouTube-FF0033?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@AnsAhmadibaonix)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=black)](https://orcid.org/0009-0005-2664-6007)
 [![Tampere University](https://img.shields.io/badge/Tampere_University-8144B8?style=flat-square)](https://researchportal.tuni.fi/en/persons/ans-ahmad/)
-
-![A minimal still footer that says thanks for visiting](profile-footer.svg)
